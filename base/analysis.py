@@ -19,7 +19,7 @@ if __name__ == "__main__":
     spark_session = (
         SparkSession.builder
             .master("local[1]")
-            .appName("test_tractable")
+            .appName("test_mode")
             .config("spark.executorEnv.PYTHONHASHSEED", "0")
             .getOrCreate()
     )
