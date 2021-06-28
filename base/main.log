@@ -5,3 +5,9 @@ INFO:__main__:renamed column header values
 INFO:__main__:successfully loaded data into database
 INFO:__main__:strating ingestion process to download gdp files
 INFO:__main__:successfully loaded gdp data in the database
+INFO:__main__:starting ingestion for country data
+INFO:__main__:successfully created a dataframe
+INFO:__main__:renamed column header values
+INFO:__main__:successfully loaded data into database
+INFO:__main__:strating ingestion process to download gdp files
+INFO:__main__:successfully loaded gdp data in the database
