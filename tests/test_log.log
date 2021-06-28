@@ -1,0 +1,4 @@
+INFO:root:testing process function
+INFO:tests.test_process:executed test process
+DEBUG:root:testing process function
+INFO:tests.test_process:executed test process
