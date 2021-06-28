@@ -26,7 +26,7 @@ financial data, for the purpose of downstream analytics.
 - run "python main.py" to execute ETL job
 - run "python analysis.py" to create derived spark views
 
-###tests
+### tests
 - uses pytest framework
 #### Setup
 - Ensure environment has been configured to run pytest tests.
@@ -35,6 +35,6 @@ financial data, for the purpose of downstream analytics.
 - run "python test_queries.py" to execute all functional/aggregate tests
 - logging included
 
-**##### Dataset Interesting fact
+##### **Dataset Interesting fact
 - Various classifications such as Heavily indebted poor and Early-dividend are recognised and tracked for economic impacts (i.e. a GDP measure), allowing the ability to have a wider picture of the world markets, as an economic indicator. 
 
